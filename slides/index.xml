@@ -1,28 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slides | Srijon</title><link>/slides/</link><atom:link href="/slides/index.xml" rel="self" type="application/rss+xml"/><description>Slides</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate><item><title>Slides</title><link>/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
-&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slides | Srijon</title><link>/slides/</link><atom:link href="/slides/index.xml" rel="self" type="application/rss+xml"/><description>Slides</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0000</lastBuildDate><item><title>Slides</title><link>/slides/example/</link><pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate><guid>/slides/example/</guid><description>&lt;h1 id="bracu-classroom">Bracu ClassRoom&lt;/h1>
+&lt;p>Documentation&lt;/p>
 &lt;hr>
-&lt;h2 id="features">Features&lt;/h2>
+&lt;h2 id="about">About&lt;/h2>
 &lt;ul>
-&lt;li>Efficiently write slides in Markdown&lt;/li>
-&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
-&lt;li>Supports speaker notes&lt;/li>
-&lt;li>Mobile friendly slides&lt;/li>
+&lt;li>Planning: The Current Problems that arose because of the pandemic regarding online classes and assignment submission, student complains made us realize we are in need of a universal platform for handling the situation that will be responsive and can respond through ease of access to things like communication and engagement. Thus the initial planning for the App for Brac concept Arose.&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;h2 id="controls">Controls&lt;/h2>
 &lt;ul>
-&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
-&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
-&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
-&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
-&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
-&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
-&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
-&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
-&lt;li>&lt;a href="https://github.com/hakimel/reveal.js#pdf-export" target="_blank" rel="noopener">PDF Export&lt;/a>: &lt;code>E&lt;/code>&lt;/li>
+&lt;li>Analysis : We held the analysis part in two ways one based on students complains online regarding what they want as a platform to transfer and another what in our limited ability we can deliver through a accessible software that can address the problem . An app with it’s user familiarities seemed more logical inspired by google classroom added more functionality to it.&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;ul>
+&lt;li>Design: We wanted to do something that is already out there to understand and becomes user-friendly so the design was a mix of google classroom for online class work and whatsapp for communication with the university noticeboard digitalized in our application for the ease of getting notified.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="requirement-analysis">Requirement analysis&lt;/h2>
+&lt;ul>
+&lt;li>Separate Faculty and Student Login/register system.&lt;/li>
+&lt;li>Faculty should be able to add /remove class contents.&lt;/li>
+&lt;li>Students should get an alert/notification for any assignments and exams.&lt;/li>
+&lt;li>Students should have task manager features.&lt;/li>
+&lt;li>Respective authority should have admin access for any changes necessary.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="use-case-diagram">Use Case Diagram&lt;/h2>
 &lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
 &lt;p>Code block:&lt;/p>
 &lt;pre>&lt;code class="language-python">porridge = &amp;quot;blueberry&amp;quot;
@@ -30,14 +31,14 @@ if porridge == &amp;quot;blueberry&amp;quot;:
 print(&amp;quot;Eating...&amp;quot;)
 &lt;/code>&lt;/pre>
 &lt;hr>
-&lt;h2 id="math">Math&lt;/h2>
+&lt;h2 id="class-diagram">Class Diagram&lt;/h2>
 &lt;p>In-line math: $x + y = z$&lt;/p>
 &lt;p>Block math:&lt;/p>
 &lt;p>$$
 f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
 $$&lt;/p>
 &lt;hr>
-&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;h2 id="activity-diagram">Activity Diagram&lt;/h2>
 &lt;p>Make content appear incrementally&lt;/p>
 &lt;pre>&lt;code>{{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
@@ -60,7 +61,7 @@ Three
 &lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;h2 id="sequence-diagram">Sequence Diagram&lt;/h2>
 &lt;p>Add speaker notes to your presentation&lt;/p>
 &lt;pre>&lt;code class="language-markdown">{{% speaker_note %}}
 - Only the speaker can read these notes
@@ -75,7 +76,7 @@ Three
 &lt;/ul>
 &lt;/aside>
 &lt;hr>
-&lt;h2 id="themes">Themes&lt;/h2>
+&lt;h2 id="dfd-context-free-diagram">DFD Context Free Diagram&lt;/h2>
 &lt;ul>
 &lt;li>black: Black background, white text, blue links (default)&lt;/li>
 &lt;li>white: White background, black text, blue links&lt;/li>
@@ -94,14 +95,14 @@ Three
 &lt;section data-noprocess data-shortcode-slide
 data-background-image="/media/boards.jpg"
 >
-&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;h2 id="dfd-level-1-diagram">DFD Level 1 Diagram&lt;/h2>
 &lt;p>Customize the slide style and background&lt;/p>
 &lt;pre>&lt;code class="language-markdown">{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
 {{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
 {{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
 &lt;/code>&lt;/pre>
 &lt;hr>
-&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;h2 id="summary">Summary&lt;/h2>
 &lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
 &lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
 &lt;pre>&lt;code class="language-css">.reveal section h1,

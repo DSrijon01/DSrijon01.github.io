@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Django | Srijon</title><link>/tag/django/</link><atom:link href="/tag/django/index.xml" rel="self" type="application/rss+xml"/><description>Django</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu89fc8f1076448c8627d8fa5b32e7c089_339735_512x512_fill_lanczos_center_2.png</url><title>Django</title><link>/tag/django/</link></image><item><title>A Multi-Purpose ToDo WebApplication Based on Django</title><link>/project/djangowebapp/</link><pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate><guid>/project/djangowebapp/</guid><description>&lt;p>Project Title: A Multi-Purpose ToDo WebApplication&lt;/p>
+&lt;p>-Project Link: &lt;a href="http://sbiswas.pythonanywhere.com/">http://sbiswas.pythonanywhere.com/&lt;/a> (hosted)&lt;/p>
+&lt;p>-Project Files: &lt;a href="https://github.com/DSrijon01/djangoWebapp">https://github.com/DSrijon01/djangoWebapp&lt;/a>&lt;/p>
+&lt;p>Project Features:
+By the end of this course, implemented features:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Django Based Framework Integration&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Login system&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Google Calendar integration&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Custom Search Bot Integration that can calculate math problems via WolframAlpha fetch Search Information Via Wikipedia Library&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Added Game for entertainment via a dynamic link&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>User Friendly Easily Navigate able UI for task creation, edit, check status functionality.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hosted on a Globally Accessible Platform&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Trendy, intuitive design and user experience.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Online Resources used:&lt;/p>
+&lt;p>-Reference: &lt;a href="https://www.udemy.com/coursedjango-3-make-websites-with-python-tutorial-beginner-learn-bootstrap/">https://www.udemy.com/coursedjango-3-make-websites-with-python-tutorial-beginner-learn-bootstrap/&lt;/a> - Udemy Tutorial for base Understanding.&lt;/p>
+&lt;p>Youtube Videos:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=A6mTN6G-adM">https://www.youtube.com/watch?v=A6mTN6G-adM&lt;/a> – Django Website Hosting&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=o8u5qcsZZdA">https://www.youtube.com/watch?v=o8u5qcsZZdA&lt;/a> – Project Platform Inspiration&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://youtu.be/K8Uem148uOU">https://youtu.be/K8Uem148uOU&lt;/a> - Django Static File Handling&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=Lc43YZ6VRY0">https://www.youtube.com/watch?v=Lc43YZ6VRY0&lt;/a> – Search Bot Basics&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://youtu.be/vksO63XQQ3w">https://youtu.be/vksO63XQQ3w&lt;/a> - google Calendar Integration&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Stackoverflow or github links –&lt;/p>
+&lt;p>Self Made game used via Github: &lt;a href="https://dsrijon01.github.io/FGV3/">https://dsrijon01.github.io/FGV3/&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Trouble Shooting - &lt;a href="https://stackoverflow.com/questions/26348177/">https://stackoverflow.com/questions/26348177/&lt;/a> (how-to-store-google-oauth-token-in-django-storage-or-database )&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Google Calendar Integration Trouble Shooting - &lt;a href="https://stackoverflow.com/questions/23859221google-calendars-django-website">https://stackoverflow.com/questions/23859221google-calendars-django-website&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Future Enhancements:
+Following enhancement can be added to the current system which will improve the system.&lt;/p>
+&lt;ul>
+&lt;li>Rasa Based Chat Bot Model Integration.&lt;/li>
+&lt;li>ML based Todo Suggestion Method based on Previous Activity&lt;/li>
+&lt;li>User to User To-Do Sharing Method&lt;/li>
+&lt;li>Multiple Custom Widget Functionality&lt;/li>
+&lt;/ul></description></item></channel></rss>

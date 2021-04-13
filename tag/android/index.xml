@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Android | Srijon</title><link>/tag/android/</link><atom:link href="/tag/android/index.xml" rel="self" type="application/rss+xml"/><description>Android</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu89fc8f1076448c8627d8fa5b32e7c089_339735_512x512_fill_lanczos_center_2.png</url><title>Android</title><link>/tag/android/</link></image><item><title>Bracu ChatApp</title><link>/project/bracuchat/</link><pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate><guid>/project/bracuchat/</guid><description>&lt;p>Project Title: A BracuChatApp / AppForBrac&lt;/p>
+&lt;p>Project Features:
+Implemented features:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>User to User Communication. (FireBase Backend)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Login system by using FireBase backend.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>User to User File Sharing.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>User Current Status Alike What’s App.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Course Add Drop Based on Advising.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>User with User Groups Form (Unimplemented)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Online Resources used:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Reference:Youtube videos: &lt;a href="https://youtu.be/gPqJcPtN18I">https://youtu.be/gPqJcPtN18I&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>GitHub - For FireBase - &lt;a href="https://gist.github.com/codediodeio/6dbce1305b9556c2136492522e2100f6">https://gist.github.com/codediodeio/6dbce1305b9556c2136492522e2100f6&lt;/a>
+For troubleshooting - &lt;a href="https://github.com/firebase/firebase-android-sdk/issues/330">https://github.com/firebase/firebase-android-sdk/issues/330&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Future Enhancements:
+Following enhancement can be added to the current system which will improve the system.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>UI optimization&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Notice Board Custom Widget Functionality&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Google Calendar Integration&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>All things Brac at One App implementation&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Call and Video Chat&lt;/p>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

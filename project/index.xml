@@ -1,5 +1,136 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Srijon</title><link>/project/</link><atom:link href="/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>Projects</title><link>/project/</link></image><item><title>Example Project</title><link>/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>/project/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Srijon</title><link>/project/</link><atom:link href="/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu89fc8f1076448c8627d8fa5b32e7c089_339735_512x512_fill_lanczos_center_2.png</url><title>Projects</title><link>/project/</link></image><item><title>A Multi-Purpose ToDo WebApplication Based on Django</title><link>/project/djangowebapp/</link><pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate><guid>/project/djangowebapp/</guid><description>&lt;p>Project Title: A Multi-Purpose ToDo WebApplication&lt;/p>
+&lt;p>-Project Link: &lt;a href="http://sbiswas.pythonanywhere.com/">http://sbiswas.pythonanywhere.com/&lt;/a> (hosted)&lt;/p>
+&lt;p>-Project Files: &lt;a href="https://github.com/DSrijon01/djangoWebapp">https://github.com/DSrijon01/djangoWebapp&lt;/a>&lt;/p>
+&lt;p>Project Features:
+By the end of this course, implemented features:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Django Based Framework Integration&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Login system&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Google Calendar integration&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Custom Search Bot Integration that can calculate math problems via WolframAlpha fetch Search Information Via Wikipedia Library&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Added Game for entertainment via a dynamic link&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>User Friendly Easily Navigate able UI for task creation, edit, check status functionality.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hosted on a Globally Accessible Platform&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Trendy, intuitive design and user experience.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Online Resources used:&lt;/p>
+&lt;p>-Reference: &lt;a href="https://www.udemy.com/coursedjango-3-make-websites-with-python-tutorial-beginner-learn-bootstrap/">https://www.udemy.com/coursedjango-3-make-websites-with-python-tutorial-beginner-learn-bootstrap/&lt;/a> - Udemy Tutorial for base Understanding.&lt;/p>
+&lt;p>Youtube Videos:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=A6mTN6G-adM">https://www.youtube.com/watch?v=A6mTN6G-adM&lt;/a> – Django Website Hosting&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=o8u5qcsZZdA">https://www.youtube.com/watch?v=o8u5qcsZZdA&lt;/a> – Project Platform Inspiration&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://youtu.be/K8Uem148uOU">https://youtu.be/K8Uem148uOU&lt;/a> - Django Static File Handling&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=Lc43YZ6VRY0">https://www.youtube.com/watch?v=Lc43YZ6VRY0&lt;/a> – Search Bot Basics&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://youtu.be/vksO63XQQ3w">https://youtu.be/vksO63XQQ3w&lt;/a> - google Calendar Integration&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Stackoverflow or github links –&lt;/p>
+&lt;p>Self Made game used via Github: &lt;a href="https://dsrijon01.github.io/FGV3/">https://dsrijon01.github.io/FGV3/&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Trouble Shooting - &lt;a href="https://stackoverflow.com/questions/26348177/">https://stackoverflow.com/questions/26348177/&lt;/a> (how-to-store-google-oauth-token-in-django-storage-or-database )&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Google Calendar Integration Trouble Shooting - &lt;a href="https://stackoverflow.com/questions/23859221google-calendars-django-website">https://stackoverflow.com/questions/23859221google-calendars-django-website&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Future Enhancements:
+Following enhancement can be added to the current system which will improve the system.&lt;/p>
+&lt;ul>
+&lt;li>Rasa Based Chat Bot Model Integration.&lt;/li>
+&lt;li>ML based Todo Suggestion Method based on Previous Activity&lt;/li>
+&lt;li>User to User To-Do Sharing Method&lt;/li>
+&lt;li>Multiple Custom Widget Functionality&lt;/li>
+&lt;/ul></description></item><item><title>Deep-Learning-Based-Image-Classifier-with-R</title><link>/project/imageclassifierbasedonr/</link><pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate><guid>/project/imageclassifierbasedonr/</guid><description>&lt;p>Solved a basic image classification problem with neural networks by Using the Keras Interface to R to build a neural network also used the R programming language to build, train, and evaluate a neural network model to classify images of clothing items into categories such as t-shirts, trousers, and sneakers.&lt;/p></description></item><item><title>Technical Stock Charts and Creating a Buy Signal using RSI in R with the Quantmod Package</title><link>/project/technicalstockchartusingr/</link><pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate><guid>/project/technicalstockchartusingr/</guid><description>&lt;p>Pulling down Stock Data using the R Quantmod Package calculating daily returns on stocks chosen applying a Techincal Indicators for stocks chosen and Ability to create Buy/Sell Signals based on RSI Index.&lt;/p></description></item><item><title>Predict Future Product Prices Using Facebook Prophet.</title><link>/project/fbprophetpriceprediction/</link><pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate><guid>/project/fbprophetpriceprediction/</guid><description>&lt;p>This project was basically to Understand the theory and intuition behind Facebook Prophet time series forecasting tool, building and training a time series forecasting model using Facebook prophet and to assess Trained model performance&lt;/p></description></item><item><title>Quarantine Memory</title><link>/project/quarantinememory/</link><pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate><guid>/project/quarantinememory/</guid><description>&lt;p>I got to learn about the pygame library and community recently. As the unproductive quarantine striked in because of covid-19 I was looking something interesting to be productive and found pygame. Made this little puzzle based game with it.&lt;/p>
+&lt;h1 id="quarantinememory-tweethttpiimgurcomtxsothfpng">QuarantineMemory &lt;a href="">&lt;img src="http://i.imgur.com/tXSoThF.png" alt="Tweet">&lt;/a>&lt;/h1>
+&lt;p>To develop Memory Puzzle game using Pygame module in Python&lt;/p>
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>In the Memory Puzzle game, several icons are covered up by white boxes. There are two of each icon. The player can click on two boxes to see what icon is behind them. If the icons match, then those boxes remain uncovered. The player wins when all the boxes on the board are uncovered. To give the player a hint, the boxes are quickly uncovered once at the beginning of the game.&lt;/p>
+&lt;h2 id="dependencies">Dependencies&lt;/h2>
+&lt;p>• Pygame
+Install dependencies using &lt;a href="https://www.pygame.org/wiki/GettingStarted" target="_blank" rel="noopener">pip&lt;/a>&lt;/p></description></item><item><title>Bracu ChatApp</title><link>/project/bracuchat/</link><pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate><guid>/project/bracuchat/</guid><description>&lt;p>Project Title: A BracuChatApp / AppForBrac&lt;/p>
+&lt;p>Project Features:
+Implemented features:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>User to User Communication. (FireBase Backend)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Login system by using FireBase backend.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>User to User File Sharing.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>User Current Status Alike What’s App.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Course Add Drop Based on Advising.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>User with User Groups Form (Unimplemented)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Online Resources used:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Reference:Youtube videos: &lt;a href="https://youtu.be/gPqJcPtN18I">https://youtu.be/gPqJcPtN18I&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>GitHub - For FireBase - &lt;a href="https://gist.github.com/codediodeio/6dbce1305b9556c2136492522e2100f6">https://gist.github.com/codediodeio/6dbce1305b9556c2136492522e2100f6&lt;/a>
+For troubleshooting - &lt;a href="https://github.com/firebase/firebase-android-sdk/issues/330">https://github.com/firebase/firebase-android-sdk/issues/330&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Future Enhancements:
+Following enhancement can be added to the current system which will improve the system.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>UI optimization&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Notice Board Custom Widget Functionality&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Google Calendar Integration&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>All things Brac at One App implementation&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Call and Video Chat&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Box Shooter</title><link>/project/firstfpsgame/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>/project/firstfpsgame/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
 &lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
 &lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
 &lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item></channel></rss>
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>RollerMadness</title><link>/project/rollermadness/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>/project/rollermadness/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
+&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
+&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>SuperSparty Bros</title><link>/project/2dplatformersparty/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>/project/2dplatformersparty/</guid><description>&lt;p>Yes you guessed it right I attempted to make something that is basically inspired by Mario.
+It has 2 level for now as I still struggle to manage time to work on it but soon enough i will make it a full phased one. Fingers Crossed. Hit the play button to give it a try.&lt;/p></description></item></channel></rss>

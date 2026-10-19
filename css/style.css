@@ -1043,11 +1043,120 @@ a {
 }
 
 /* --------------------------------------------------------------------------
-   Education & Background Section
+   Experience & Career Journey Section
    -------------------------------------------------------------------------- */
-.edu-card-wrapper {
-  max-width: 800px;
+.experience-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  max-width: 900px;
   margin: 0 auto;
+}
+
+.experience-card {
+  position: relative;
+  background: var(--bg-glass-card);
+  border: 1px solid var(--border-glass);
+  border-radius: var(--radius-lg);
+  padding: 32px;
+  backdrop-filter: blur(14px);
+  transition: transform var(--transition-smooth), border-color var(--transition-smooth);
+}
+
+.experience-card:hover {
+  transform: translateY(-4px);
+  border-color: var(--border-glass-hover);
+  box-shadow: var(--shadow-md);
+}
+
+.experience-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.experience-role {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.experience-company-link {
+  color: var(--accent-cyan);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.experience-period-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 14px;
+  background: rgba(99, 102, 241, 0.12);
+  border: 1px solid rgba(99, 102, 241, 0.3);
+  border-radius: var(--radius-pill);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--accent-primary);
+}
+
+.experience-location {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+}
+
+.experience-bullets {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.experience-bullets li {
+  position: relative;
+  padding-left: 22px;
+  font-size: 0.94rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.experience-bullets li::before {
+  content: '▹';
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: var(--accent-cyan);
+  font-weight: bold;
+}
+
+.experience-tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border-glass);
+}
+
+/* --------------------------------------------------------------------------
+   Education & Academic Background Section
+   -------------------------------------------------------------------------- */
+.edu-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+  gap: 28px;
+  max-width: 1050px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .edu-cards-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 .timeline-card {
@@ -1058,26 +1167,37 @@ a {
   padding: 32px;
   backdrop-filter: blur(14px);
   display: flex;
-  gap: 24px;
+  gap: 20px;
   align-items: flex-start;
+  transition: transform var(--transition-smooth), border-color var(--transition-smooth);
+}
+
+.timeline-card:hover {
+  transform: translateY(-4px);
+  border-color: var(--border-glass-hover);
+  box-shadow: var(--shadow-md);
 }
 
 .timeline-icon-box {
-  width: 56px;
-  height: 56px;
-  border-radius: 16px;
+  width: 54px;
+  height: 54px;
+  border-radius: 14px;
   background: var(--gradient-brand);
   display: flex;
   align-items: center;
   justify-content: center;
   color: #fff;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   flex-shrink: 0;
   box-shadow: 0 8px 20px rgba(99, 102, 241, 0.35);
 }
 
+.timeline-content {
+  flex-grow: 1;
+}
+
 .timeline-content h3 {
-  font-size: 1.3rem;
+  font-size: 1.25rem;
   margin-bottom: 4px;
 }
 
@@ -1085,17 +1205,41 @@ a {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 12px;
-  font-size: 0.92rem;
+  gap: 10px;
+  font-size: 0.9rem;
   color: var(--accent-cyan);
   font-weight: 600;
   margin-bottom: 14px;
 }
 
 .timeline-desc {
-  font-size: 0.96rem;
+  font-size: 0.92rem;
   color: var(--text-secondary);
-  line-height: 1.65;
+  line-height: 1.6;
+}
+
+.timeline-bullets {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.timeline-bullets li {
+  position: relative;
+  padding-left: 18px;
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  line-height: 1.55;
+}
+
+.timeline-bullets li::before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: var(--accent-primary);
+  font-weight: bold;
 }
 
 /* --------------------------------------------------------------------------

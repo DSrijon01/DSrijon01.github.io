@@ -41,11 +41,12 @@ document.addEventListener('DOMContentLoaded', () => {
   const typingElement = document.getElementById('typingText');
   if (typingElement) {
     const roles = [
-      "Creative Software Engineer",
-      "Unity 3D / 2D Game Developer",
-      "AI & Machine Learning Enthusiast",
-      "Full-Stack Web & Android Builder",
-      "Data & Time-Series Analyst"
+      "Software Engineer (SDET) & Quant Analyst",
+      "MBA in Finance Candidate @ AIT Thailand",
+      "Financial Analysis & Valuation (DCF)",
+      "Fin-Tech & Health-Tech Specialist",
+      "Statistical & Quantitative Modeling",
+      "Unity 3D / 2D Game Developer"
     ];
     let roleIndex = 0;
     let charIndex = 0;
